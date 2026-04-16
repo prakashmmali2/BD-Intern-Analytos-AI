@@ -1,4 +1,5 @@
-Stockly GTM Research
+**Stockly GTM Research**
+
 
 Research Methodology
 Started with industries showing complex inventory needs—automotive parts, industrial distribution, electronics, and manufacturing. Used web research and AI tools to find US companies with $50M–$2B revenue and multi-warehouse operations. LinkedIn searches identified decision makers like VP Supply Chain and Operations Directors. Structured everything in Excel using pandas for clean 20-company target list + Netstock competitor analysis.
@@ -23,11 +24,16 @@ Campaign Concept
 Inventory Risk Intelligence Report
 Personalized report using industry benchmarks to estimate excess inventory risk, stockout exposure, and working capital opportunity. Designed to drive high engagement from supply chain leaders via gated landing pages.
 
-Project Outcome
+Project Outcome:
+
 ✅ 20 high-fit mid-market targets identified
+
 ✅ Supply chain buyer personas mapped (20 VPs/Directors)
+
 ✅ Netstock competitor analysis (15 customers, GTM gaps)
+
 ✅ Outreach messaging + AI campaign strategies ready
+
 ✅ Quality Excel workbook with both sheets
 
 Next Steps
